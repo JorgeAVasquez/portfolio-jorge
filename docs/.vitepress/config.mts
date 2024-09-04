@@ -5,7 +5,7 @@ export default defineConfig({
   title: "Jorge Vasquez's Project Portfolio", 
   description: "6.1040 Fall 2024",
   // TODO: add your base here; this should be your repo name!
-  base: "/<portfolio-jorge>/",
+  base: "/portfolio-jorge/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
