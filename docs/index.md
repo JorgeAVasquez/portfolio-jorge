@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Jorge's Blog"
+  text: "Web Dev and Design"
+  tagline: "more to come"
   actions:
     - theme: brand
       text: Template Repository
