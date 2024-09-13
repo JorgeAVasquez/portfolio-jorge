@@ -8,6 +8,8 @@ layout: doc
 Hunch:
 How would I design a social media app designed for the older generation? What would integration look like for new, older users and as the main, younger user base ages?
 
+Interview plan is to ask older generation people. Selected mother and family friend. Both over the age of 55. Mother does not use social media very much, mainly for communcation with family. Family friend actively uses, but does not post on social media.
+
 ## Interview #1: 
 
 The user highlights a preference for platforms like WhatsApp due to their straightforward, communication-focused functionality. On the other hand, she describes platforms like Facebook and TikTok as time-consuming and filled with distracting or irrelevant content, saying "it grabs your attention" and that she likes to listen to "educated things, not foolishness." She also emphasizes the impact a video-based platform can have, praising it since "it's nice to see you on video," referencing whatsapp video calls with family. However, she criticizes the increased perturbation videos lead to when seeing disagreeable content on TikTok or Facebook since it's more impactful. Mainly, they use their phone for practical purposes such as staying informed about global events, connecting with family, and business. She cites an experience where someone she met at a conference asks for her facebook to stay connected, but the user doesn't have Facebook and is unable to.
@@ -41,6 +43,9 @@ Older users don't care for extra features, viewing them as distracting from what
 How do you start your day?
 What purpose does social media serve?
 How do you use social media?
+How do you keep in contact with friends?
+What means do you use to communicate, and if social media, why do you prefer it over messaging or phone calls?
+Has there been a moment in your life where you've appreciated social media?
 
 # Interview #1:
 
