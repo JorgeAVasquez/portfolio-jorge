@@ -3,34 +3,46 @@ title: Assigment 1
 layout: doc
 ---
 
-# Summary
+## Summary
 
-Interview #1: 
+Hunch:
+How would I design a social media app designed for the older generation? What would integration look like for new, older users and as the main, younger user base ages?
 
-The user highlights a preference for platforms like WhatsApp due to their straightforward, communication-focused functionality. They describe platforms like Facebook and TikTok as time-consuming and filled with distracting or irrelevant content. She also emphasizes the impact a video-based platform can have, praising its implementation in whatsapp video calls with family and criticizing the increased perturbation it leads to when seeing disagreeable content on TikTok or Facebook. Mainly, they use their phone for practical purposes such as staying informed about global events, connecting with family, and facilitating business tasks, rather than for leisure. They believe the purpose of social media lies in being a tool for connection rather than for sharing personal moments publicly. Certain social media platforms are viewed as having a negative impact on time management and focus, overwhelming the user with unsolicited content.
+## Interview #1: 
 
-Interview #2:
+The user highlights a preference for platforms like WhatsApp due to their straightforward, communication-focused functionality. On the other hand, she describes platforms like Facebook and TikTok as time-consuming and filled with distracting or irrelevant content, saying "it grabs your attention" and that she likes to listen to "educated things, not foolishness." She also emphasizes the impact a video-based platform can have, praising it since "it's nice to see you on video," referencing whatsapp video calls with family. However, she criticizes the increased perturbation videos lead to when seeing disagreeable content on TikTok or Facebook since it's more impactful. Mainly, they use their phone for practical purposes such as staying informed about global events, connecting with family, and business. She cites an experience where someone she met at a conference asks for her facebook to stay connected, but the user doesn't have Facebook and is unable to.
+She believes the purpose of social media lies in being a tool for connection rather than for sharing personal moments publicly. Certain social media platforms are viewed as having a negative impact on time management and focus, overwhelming the user with unsolicited content.
 
-The individual primarily uses social media as a communication tool, using it when they have free time and nothing important to do as a quick way to stay in touch with others. The user values privacy, preferring to keep personal information off social media. They are selective about content, avoiding “junk” information, inappropriate material, or games. Rather, he prefers content that is educational, useful, or helps him grow personally, such as learning English or keeping up to date with politics. Social media platforms that allow low-quality or misleading content causes the user to lose trust in the platform, although they acknowledge that it’s up to them to use their own judgment on what is a trustworthy and untrustworthy source. They believe that social media should be used responsibly and not taken too seriously, criticizing those who use it for entertainment as a waste of time leading to sloth.
+## Interview #2:
 
-Conclusion:
+The individual primarily uses social media as a communication tool, using it when they have free time and nothing important to do as a quick way to stay in touch with others. The user values privacy, preferring to keep personal information off social media. They are selective about content, avoiding “junk” information, inappropriate material, or games. Rather, he prefers content that is "educational, useful, or helps [him] grow personally", such as learning English or keeping up to date with politics. Saying, "not jokes, but political commentary!" Social media platforms that allow low-quality or misleading content causes the user to lose trust in the platform, although they acknowledge that it’s up to them to use their own judgment on what is a trustworthy and untrustworthy source. They believe that social media should be used responsibly and not taken too seriously, criticizing those who use it for entertainment as a waste of time leading to sloth.
+He considers himself an educated person, and thus wants to see content that "helps [him] improve personally."
+Interestingly, he seems to value social media that reflects his own values. In addition, the user commented on the fact that if a friend of theirs posted something "foolish," he would lose respect in that friend and "push them away," keeping them at arms length. But, he would also lose respect for the site, knowing that the platform allows low-quality content.
+## Conclusion:
 
-The older generation feels that social media is a tool for communication and information but should be approached with caution, prioritizing privacy and the quality of interactions.
+The older generation feels that social media is a tool for communication and information but should be approached with caution, prioritizing privacy and the quality of interactions. They feel that the platform should reflect their own values, citing personal experiences where they were bothered by what they were shown and criticizing those who invest too much of themselves into it.
 
 
-Design Opportunities:
+## Design Opportunities:
 
 1. A social media app for older users should prioritize simple, communication-focused features similar to WhatsApp.
 Both users commented on the face that the value social media platforms provide lies in the added accessibility to communication they provide. Designing a product that streamlines the communication aspect of social media will 
 2. Content should be user-driven and respectful of personal values, with robust controls to filter out unwanted or irrelevant material.
+Since we can't completely control the platform to perfectly reflect the user's values, allowing the user to filter out content would help compensate. In addition, both users led on that what they truly valued in the platform was a sense of control.
 3. Integration for new users should emphasize privacy, practicality, and maintaining connections without overwhelming them with unnecessary features or distracting visuals.
+Older users don't care for extra features, viewing them as distracting from what they feel as the main purpose of the app. For example, user #1 said that if videos were added to WhatsApp, they would simply not use it, seeking to get rid of it from the app. 
 4. As the user base ages, the app should evolve to maintain a balance of useful, respectful content that aligns with changing life priorities and values.
+    Providing tools that allows the users to continue to monitor their content and update preferences would help keep users feeling like the platform fits their needs. An algorithm that could detect shifts in user values and content and softly test new content rather than throwing it onto the user would reduce risks of feeling like the app is "low-brow" or doesn't align with the user's priorities.
 
-# Raw Interview Notes 
-Hunch:
-How would I design a social media app designed for the older generation? What would integration look like for new, older users and as the main, younger user base ages?
+## Raw Interview Notes 
 
-# Interview 1:
+
+# Questions:
+How do you start your day?
+What purpose does social media serve?
+How do you use social media?
+
+# Interview #1:
 
 Voy hacer una intervista de tu experiencia con las redes sociales.
 
