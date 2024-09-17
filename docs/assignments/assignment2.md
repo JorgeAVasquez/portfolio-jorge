@@ -7,7 +7,8 @@ layout: doc
 
 My app will be designed for the older generation. It'll provide 
 
-Name: 
+Name: Harmony
+
 Intended audience:
 An older population that considers themselves to be "principled" individuals. I found that. 
 Value: Content that is heavily personalized to the user's point of view, 
@@ -15,10 +16,26 @@ Value: Content that is heavily personalized to the user's point of view,
 ## Scrapbook of Comparables
 
 ![Instagram Close Friends](../../assets/images/CloseFriends.png)
+Here is a depiction of how one would use the "Close Friends" list on Instagram. Could we use a similar concept to help our users control who sees what and feel more comfortable sharing special moments... giving them the sense of sharing to family and friends rather than to strangers?
+
+![Do Not Disturb](../../assets/images/doNotDisturb.png)
+iPhone's DND feature silences calls, alerts, and notifications. Mainly though, the point is to not... disturb, the user. How could we provide a service on the app to keep users from feeling bombared by content (i.e. only see approved content or block the content algorithm from testing new content with the user), handing a greater sense of control back to the user?
+
+![Tik Tok Not Interested](../../assets/images/TikTokNotInterested.png)
+TikTok's "Not Interested" option provides the user with the option to customize their "For You Page." i.e. helping to customize the algorithm that feeds them content. Let's think about how to apply a similar tool that will allow the app to respond to user feedback.
+SideNote: Let's also consider the differences between TikTok's "Not Interested" and YouTube's "Dislike" button and how they change a user's perspective.
+
+![YouTube Up Next](../../assets/images/YTUpNext.png)
+Once a YouTube video finishes playing, you get a one frame preview of what the next auto-played video will be. Considering that the userbase wants to avoid "disturbing" or "foolish" content, one could apply this frame preview so that the user can decide if they want to view that content. 
+
+![Instagram Sensitive Content](../../assets/images/InstaBlur.png)
+Instagram implements a blur and warning if the content has been found to be disturbing. Related to idea above, we could apply something similar onto the frame previews.
+
+
 ## Brainstorming Feature Ideas
 
 1. Family Video Wall:   
-A video-sharing space where users can post short, private video messages to family members. It offers a controlled environment for meaningful video-based connections without the noise of public content.
+A video-sharing space where users can post short, private video messages to family members. It offers a controlled environment for meaningful video-based connections without the noise of public, external content.
 2. Simplified Feed:  
 A minimalist feed that only shows important updates from selected contacts, like family and close friends, without irrelevant posts or ads. No clutter, just focus on essential content.
 3. Trusted News Hub: 
