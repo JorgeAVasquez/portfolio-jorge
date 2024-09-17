@@ -14,8 +14,7 @@ Value: Content that is heavily personalized to the user's point of view,
 
 ## Scrapbook of Comparables
 
-![Instagram Close Friends](../../assets/images/base-url.png)
-![Test Base URL](../../assets/images/base-url.png)
+![Instagram Close Friends](../../assets/images/CloseFriends.png)
 ## Brainstorming Feature Ideas
 
 1. Family Video Wall:   
