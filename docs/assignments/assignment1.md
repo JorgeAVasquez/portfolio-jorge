@@ -33,8 +33,8 @@ Both users commented on the face that the value social media platforms provide l
 Since we can't completely control the platform to perfectly reflect the user's values, allowing the user to filter out content would help compensate. In addition, both users led on that what they truly valued in the platform was a sense of control.
 3. Integration for new users should emphasize privacy, practicality, and maintaining connections without overwhelming them with unnecessary features or distracting visuals.
 Older users don't care for extra features, viewing them as distracting from what they feel as the main purpose of the app. For example, user #1 said that if videos were added to WhatsApp, they would simply not use it, seeking to get rid of it from the app. 
-4. As the user base ages, the app should evolve to maintain a balance of useful, respectful content that aligns with changing life priorities and values.
-    Providing tools that allows the users to continue to monitor their content and update preferences would help keep users feeling like the platform fits their needs. An algorithm that could detect shifts in user values and content and softly test new content rather than throwing it onto the user would reduce risks of feeling like the app is "low-brow" or doesn't align with the user's priorities.
+4. As the user base ages, the app should evolve to maintain a balance of useful, respectful content that aligns with changing life priorities and values. 
+Providing tools that allows the users to continue to monitor their content and update preferences would help keep users feeling like the platform fits their needs. An algorithm that could detect shifts in user values and content and softly test new content rather than throwing it onto the user would reduce risks of feeling like the app is "low-brow" or doesn't align with the user's priorities.
 
 ## Raw Interview Notes 
 
