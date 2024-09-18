@@ -121,7 +121,7 @@ Include Context-Aware Security Prompts that offer users proactive recommendation
 
 # Sharing content to "close friends":
 ![PhotoWorthy](../../assets/images/IMG_0014.PNG)
-Here, we see that a user finds something that is photoworthy, and wants to share it with their close friends or family. In this case, it's their pet dog wearing a cowboy hat :).
+Here, we see that a user finds something that is photoworthy, and wants to share it with their close friends or family. In this case, it's their pet dog wearing a cowboy hat.
 
 ![Open App](../../assets/images/IMG_0015.PNG)
 The user opens the app, showing that they're currently on the Home page by having the Home Icon highlighted in blue. By clicking on the camera, they open the camera part of the app.
