@@ -123,7 +123,7 @@ Include Context-Aware Security Prompts that offer users proactive recommendation
 ![PhotoWorthy](../../assets/images/A2/See.png)
 Here, we see that a user finds something that is photoworthy, and wants to share it with their close friends or family. In this case, it's their pet dog wearing a cowboy hat.
 
-![Open App](C../../assets/images/A2/Cam.png)
+![Open App](../../assets/images/A2/Cam.png)
 The user opens the app, showing that they're currently on the Home page by having the Home Icon highlighted in blue. By clicking on the camera, they open the camera part of the app.
 
 ![Take Picture](../../assets/images/A2/Send.png)
