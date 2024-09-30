@@ -120,22 +120,22 @@ Include Context-Aware Security Prompts that offer users proactive recommendation
 ## Storyboarding and sketching
 
 # Sharing content to "close friends":
-![PhotoWorthy](See.png)
+![PhotoWorthy](../../assets/images/A2/See.png)
 Here, we see that a user finds something that is photoworthy, and wants to share it with their close friends or family. In this case, it's their pet dog wearing a cowboy hat.
 
-![Open App](Cam.png)
+![Open App](C../../assets/images/A2/Cam.png)
 The user opens the app, showing that they're currently on the Home page by having the Home Icon highlighted in blue. By clicking on the camera, they open the camera part of the app.
 
-![Take Picture](Send.png)
+![Take Picture](../../assets/images/A2/Send.png)
 After taking the picture, the option to send it to the user's Close Friends comes up. However, the user can also choose more users to send it to, or choose to not send it to Close Friends. The photo is sent by clicking the green send icon. 
 
 # Blocking/Disliking Content
 
-![Bad](Mad.png)
+![Bad](../../assets/images/A2/Mad.png)
 Here, offensive or disturbing content is shown to the user. To proceed, they can hit the X at the top left to stop seeing the video.
 
-![Choose](Blur.png)
+![Choose](../../assets/images/A2/Blur.png)
 From here, the video is blurred, and the user can choose if they are disliking the video, reporting it, and/or blocking the user through a pop up menu.
 
-![Why](Why.png)
+![Why](../../assets/images/A2/Why.png)
 Now, the user is free to report why they felt that the content was disturbing or why they didn't like the content. This allows us to choose to take down the video or simply not show similar content in the future to this particular user.
