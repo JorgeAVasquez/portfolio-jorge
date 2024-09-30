@@ -129,6 +129,7 @@ https://www.figma.com/design/pYQeRaFrxi6DQp8NDOYTHt/A3?node-id=0-1&t=qlH0TvsB00u
 
 Comment:
 While constructing the wireframes and their flows, I realized that some of my concepts couldn't be expressed properly. Thus, I added in the "User" and "Recording" concepts into my Concepts list. I hadn't included them originally because I did not think they were "unique" enough, but realized that they were quite critical to the platform's design and would make more sense on wireframe.
+
 P.S. this is also why those two concepts are written a bit different than the others, hope that's fine!
 
 ## Design Tradeoffs
