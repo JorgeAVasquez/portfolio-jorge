@@ -10,6 +10,60 @@ Our audience includes individuals who seek a more intentional and personalized e
 
 ## Concepts
 
+# User
+- Purpose: Represent individuals who interact with the app, allowing them to manage their profiles, preferences, and interactions within the family environment.
+- Principle:
+A user can create a profile, manage their preferences, and interact with other users.
+The actions taken by the user will reflect their state and preferences in the app.
+- State:
+    - registered: set User
+    - username, age: registered -> one String
+    - preferences: registered -> set String
+    - connectedUsers: registered -> set User
+- Actions:
+    - register (username: String, age: int, out user: User):
+        - user not in registered
+        - registered += user
+        - user.username := username
+        - user.age := age
+    - updateProfile (user: User, preferences: set String):
+        - user in registered
+        - user.preferences := preferences
+
+# Record
+- Purpose: Enable users to create and manage audio or video recordings within the app.
+- Principle: After a user initiates a recording, they can capture audio or video, save it, and manage it later.
+- State:
+    - activeRecordings: set Recording
+    - content: activeRecordings -> one Media (audio/video)
+    - author: activeRecordings -> one User
+    - timestamp: activeRecordings -> one Date
+    - status: activeRecordings -> one Status (e.g., recording, paused, stopped)
+- Actions:
+    - start (out recording: Recording)
+        - no recording in activeRecordings
+        - activeRecordings += recording
+        - recording.author := currentUser
+        - recording.timestamp := now
+        - recording.status := recording
+    - pause (recording: Recording):
+        - recording in activeRecordings and recording.status = recording
+        - recording.status := paused
+    - resume (recording: Recording):
+        - recording in activeRecordings and recording.status = paused
+        - recording.status := recording
+    - stop (recording: Recording, out content: Media):
+        - recording in activeRecordings and (recording.status = recording or recording.status = paused)
+        - content := recording.content
+        - activeRecordings -= recording
+        - recording.status := stopped
+    - delete (recording: Recording):
+        - recording in activeRecordings and recording.author = currentUser
+        - activeRecordings -= recording
+    - share (recording: Recording, user: UserT):
+        - recording in activeRecordings
+        - send recording to user
+
 # Family Video Wall 
 - Purpose: Allows users to share private video messages with family members, fostering close connections without public exposure.
 - Operational Principle: Users record and post short video messages that are visible only to a defined group (e.g., family). Family members can reply with video messages, maintaining a private conversation space.
@@ -68,6 +122,14 @@ Our audience includes individuals who seek a more intentional and personalized e
 
 # Dependecy Diagram
 ![Dep Diagram](../../assets/images/A3/DepDiagram.jpeg)
+
+## WireFrame: User, Record, and Family Video Wall
+https://www.figma.com/design/pYQeRaFrxi6DQp8NDOYTHt/A3?node-id=0-1&t=qlH0TvsB00ubP7oh-1
+![WireFrame](../../assets/images/A3/WireFrame.png)
+
+Comment:
+While constructing the wireframes and their flows, I realized that some of my concepts couldn't be expressed properly. Thus, I added in the "User" and "Recording" concepts into my Concepts list. I hadn't included them originally because I did not think they were "unique" enough, but realized that they were quite critical to the platform's design and would make more sense on wireframe.
+P.S. this is also why those two concepts are written a bit different than the others, hope that's fine!
 
 ## Design Tradeoffs
 1. Content Approval Visibility
